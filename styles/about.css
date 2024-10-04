@@ -10,6 +10,7 @@
   .container {
     max-width: 1300px;
     width: 100%;
+    margin: 0 auto;
   }
   header {
     position: absolute;
@@ -37,8 +38,7 @@
     padding:10px;
     border-radius: 20px;
   }
-  
-  a:hover {
+  a:hover{
     background-color: #9a9ca14a;
     transition: 0.3s ease-in-out;
   }
@@ -156,9 +156,9 @@
     background: #fff;
     border-radius: 24px;
     padding: 25px;
-    margin: 20px;
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
     position: relative;
+    margin: 20px;
   }
   .profile-card::before {
     content: "";
