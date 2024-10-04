@@ -1,7 +1,6 @@
 
 # About this project
-
-This is a simple PHP Form project to fulfill the requirements for subject ICT600 - Web Technology and Application. The project is about transforming a physical form into digital format
+This is a simple PHP Form project to fulfill the requirements for subject ICT600 - Web Technology and Application. The project is about transforming a physical form into digital format.
 
 
 ## Prerequisites
